@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="338b91d4-e5c8-4d06-babb-9e69e6cb8d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/rockthejvm/Basics.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/rockthejvm/ObjectOrientation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/rockthejvm/Basics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/rockthejvm/Basics.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +30,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1lzLjgTf6BiL40U34f917NGuRW3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

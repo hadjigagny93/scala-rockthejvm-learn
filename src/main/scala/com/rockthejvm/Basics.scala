@@ -39,11 +39,16 @@ object Basics extends App {
   // recursive function
   def factorial(n: Int): Int = {
     if (n <= 1) 1
-    else n * factorial((n-1))
+    else n * factorial(n - 1)
+
   }
 
   // In scala we don't use loops or iteration but
   // also use recursion
+
+  def myUnitReturningFunction(): Unit = {
+    println("I dont love scala")
+  }
 
 
 
